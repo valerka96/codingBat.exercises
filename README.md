@@ -1,3 +1,3 @@
 # codingBat.exercises
 
-Solutions of the exercises from CodingBat.com
+Solutions of the exercises from CodingBat.com using Java.
